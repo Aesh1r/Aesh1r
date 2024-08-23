@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aesh1r
 - 👀 I’m interested in Programation
-- 🌱 I’m currently learning c++, python, javaScript, html and css
-- 📫 How to reach me diazzzangello@gmail.com
+- 🌱 I’m currently learning:  c++, python, javaScript, html and css
+- 📫 How to reach me: via gmail --> diazzzangello@gmail.com
 - 😄 Pronouns: ?? only are two = he / she. I am a male so "he".
 
 <!---
